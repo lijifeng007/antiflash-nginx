@@ -1,2 +1,1 @@
 # antiflash-nginx
-nginx learning
