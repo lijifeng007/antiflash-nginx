@@ -1,4 +1,4 @@
-[AntiFlash Nginx Configs homepage](https://github.com/lijifeng007/antiflash-nginx)
+[AntiFlash Nginx Configs Home](https://github.com/lijifeng007/antiflash-nginx)
 | [Documentation table of contents](TOC.md)
 # The common folder
 

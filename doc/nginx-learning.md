@@ -1,4 +1,4 @@
-# nginx learining
+# nginx learning
 ============================
 ### understanding nginx
 - worker number = cpu cores
@@ -13,6 +13,8 @@
 	 	baseurl=http://nginx.org/packages/centos/7/$basearch/
 	 	gpgcheck=0
     	enabled=1
+
+    2. yum install nginx
     
 
 
@@ -24,8 +26,7 @@
 
 
 ### nginx auth
-1. base auth
-[Password Protect a Domain with nginx](http://magnatecha.com/password-protect-domain-with-nginx/)
+1. [Password Protect a Domain with nginx](http://magnatecha.com/password-protect-domain-with-nginx/)
 
 ### nginx config
 [how-to-configure-nginx](https://www.linode.com/docs/websites/nginx/how-to-configure-nginx)
